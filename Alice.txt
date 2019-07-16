@@ -1,4 +1,2 @@
-Hi! I'm Alice-Za. I'm a file someone added to this repository a while ago.
-Change this line !.
-Add more to ***
-Add something interesting !!
+Hi! I'm Alice. I'm a file someone made a change to on the remote!
+Then a bit later someone made another remote change.
